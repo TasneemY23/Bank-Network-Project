@@ -1,5 +1,11 @@
 # Bank Network Infrastructure Simulation (Cisco Packet Tracer)
 
+## Topology Diagram
+
+![Bank Network Topology](BankTopology.png)
+
+---
+
 ## Project Overview
 
 This project simulates the network infrastructure of a multi-floor bank environment using *Cisco Packet Tracer*. The topology is designed to reflect a realistic enterprise banking network with segmented departments, centralized services, secure management access, dynamic routing, and wireless connectivity.
