@@ -134,7 +134,7 @@ A DNS server was configured to resolve internal service names within the network
 
 ### HTTP
 
-A web server was configured and its website content was customized. A DNS record was also added so users could access the site by name ***www.BankWeb.com***.
+A web server was configured and its website content was customized. A DNS record was also added so users could access the site by name.
 
 ### Email
 
