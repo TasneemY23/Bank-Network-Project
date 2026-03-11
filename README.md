@@ -45,17 +45,17 @@ Each floor uses a **Layer 3 switch** for inter-VLAN routing, while routers and L
 - VLAN20 — 192.168.10.64/26 
 - VLAN30 — 192.168.10.128/26 
 
-## Floor 2
-
-- VLAN70 — 192.168.11.128/26
-- VLAN80 — 192.168.11.192/26
-- VLAN90 — 192.168.12.0/26
-
 ## Floor 3
 
 - VLAN40 — 192.168.10.192/26
 - VLAN50 — 192.168.11.0/26
 - VLAN60 — 192.168.11.64/26
+
+## Floor 2
+
+- VLAN70 — 192.168.11.128/26
+- VLAN80 — 192.168.11.192/26
+- VLAN90 — 192.168.12.0/26
 
 ## Floor 4
 
@@ -217,4 +217,3 @@ This project demonstrates practical knowledge of:
 - Cisco Packet Tracer
 - Cisco IOS CLI
 
----
